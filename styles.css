@@ -5,3 +5,9 @@
 #projects h1.text-body-emphasis {
     margin-bottom: 20px;
 }
+
+ul {
+    margin-bottom: 0;
+    opacity: .75;
+    list-style-type: square;
+}
