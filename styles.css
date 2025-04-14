@@ -1,0 +1,7 @@
+#projects > div > div > div > h1, #projects p.card-text {
+    text-align: center;
+}
+
+#projects h1.text-body-emphasis {
+    margin-bottom: 20px;
+}
